@@ -30,7 +30,7 @@ namespace OPKonradKirkebjerg
             }
         }
 
-        public int page
+        public int Page
         {
             get => _page;
             set
